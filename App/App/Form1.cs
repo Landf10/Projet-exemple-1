@@ -26,5 +26,10 @@ namespace App
                 formullaire.Show();
             }
         }
+
+        private void txt_password_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
