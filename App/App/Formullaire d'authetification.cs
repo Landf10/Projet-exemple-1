@@ -8,23 +8,18 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-
 namespace App
 {
-    public partial class Form1 : Form
+    public partial class Form2 : Form
     {
-        public Form1()
+        public Form2()
         {
             InitializeComponent();
         }
 
-        private void btn_submit_Click(object sender, EventArgs e)
+        private void Form2_Load(object sender, EventArgs e)
         {
-            if (txt_password.Text == "admin" && txt_user.Text == "admin")
-            {
-                Form2 formullaire = new Form2();
-                formullaire.Show();
-            }
+           
         }
     }
 }
