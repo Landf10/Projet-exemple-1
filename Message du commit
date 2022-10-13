@@ -1,0 +1,23 @@
+[33mcommit f8e1868c0327f6c772508daddb7f60ad0c3c0415[m[33m ([m[1;36mHEAD -> [m[1;32mauthentification[m[33m)[m
+Author: landf10 <landryfoche352@gmail.com>
+Date:   Thu Oct 13 09:49:10 2022 +0100
+
+    Synthese du formulaire d'authentification
+
+[33mcommit 58582d4cd65145c5914af2bee37d40c9b621ba27[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: landf10 <landryfoche352@gmail.com>
+Date:   Tue Oct 11 11:47:52 2022 +0100
+
+    formulaire de connexion
+
+[33mcommit 0ebeb53b2d7191f6b652c6e9c22417c364ca3a97[m
+Author: landf10 <landryfoche352@gmail.com>
+Date:   Tue Oct 11 11:33:16 2022 +0100
+
+    Message du commit
+
+[33mcommit b39e53a5ffa1d3fc3b422c0c8dd6749366e3f2c0[m
+Author: Landf10 <115461876+Landf10@users.noreply.github.com>
+Date:   Tue Oct 11 09:01:28 2022 +0100
+
+    Initial commit
